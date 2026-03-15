@@ -42,7 +42,7 @@ We are currently working on **Phase 2**, which introduces the **VCross Nexus Dis
 ## 🚀 How to Run
 ```powershell
 # Clone the repository
-git clone https://github.com/yourusername/VCross.git
+git clone https://github.com/tutel1805/VCross.git
 cd VCross
 
 # Run directly
