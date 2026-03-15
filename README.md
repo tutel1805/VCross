@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Resources/crosshair.ico" alt="VCross Logo" width="120" />
+  <img src="logo.ico" alt="VCross Logo" width="120" />
   <h1>VCross</h1>
   <p><strong>A professional, high-performance Windows crosshair overlay with native click-through support and a glowing 'Universe' aesthetic.</strong></p>
 </div>
